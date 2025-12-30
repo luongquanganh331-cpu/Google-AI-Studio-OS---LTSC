@@ -1,0 +1,7 @@
+{
+  "name": "Google AI Studio OS - LTSC",
+  "description": "A minimalist, high-performance OS concept inspired by Google AI Studio, featuring core essentials: Files, Browser, and Camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
